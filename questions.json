@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Was ist eine Freizeichnungsklausel bei einem Angebot?",
+    "options": {
+      "A": "Eine Klausel, durch die der Empfänger zur Annahme des Angebots verpflichtet wird.",
+      "B": "Ein Zusatz, durch den die Bindung des Anbieters an sein Angebot ausgeschlossen oder eingeschränkt wird.",
+      "C": "Eine Klausel, durch die ein Vertrag automatisch unwirksam wird.",
+      "D": "Eine gesetzlich vorgeschriebene Bestätigung eines schriftlichen Angebots."
+    },
+    "correct": "B",
+    "explanation": "Mit einer Freizeichnungsklausel kann der Anbieter die Bindungswirkung seines Angebots ausschließen oder einschränken. Typische Formulierungen sind beispielsweise „freibleibend“ oder „unverbindlich“. Ohne eine solche Einschränkung ist der Antragende grundsätzlich an seinen Antrag gebunden (§ 145 BGB)."
+  },
+  {
+    "question": "Ein Verkäufer sendet einem Kunden ein konkretes schriftliches Angebot ohne Freizeichnungsklausel. Der Kunde nimmt dieses Angebot rechtzeitig und ohne Änderungen an. Was entsteht dadurch?",
+    "options": {
+      "A": "Ein Vertrag durch zwei übereinstimmende Willenserklärungen.",
+      "B": "Nur eine unverbindliche Anfrage.",
+      "C": "Ein einseitiges, nicht empfangsbedürftiges Rechtsgeschäft.",
+      "D": "Noch kein Rechtsgeschäft, da eine dritte Willenserklärung erforderlich ist."
+    },
+    "correct": "A",
+    "explanation": "Ein Vertrag kommt grundsätzlich durch zwei übereinstimmende Willenserklärungen zustande: Angebot und Annahme. Nimmt der Kunde das konkrete Angebot rechtzeitig und ohne Änderungen an, kommt der Vertrag zustande."
+  },
+  {
+    "question": "Was kennzeichnet ein zweiseitiges Rechtsgeschäft?",
+    "options": {
+      "A": "Es sind mindestens zwei übereinstimmende Willenserklärungen erforderlich.",
+      "B": "Beide Vertragsparteien müssen immer zu einer Leistung verpflichtet sein.",
+      "C": "Es muss immer schriftlich abgeschlossen werden.",
+      "D": "Es kann nur zwischen zwei natürlichen Personen geschlossen werden."
+    },
+    "correct": "A",
+    "explanation": "Bei einem zweiseitigen Rechtsgeschäft sind zwei übereinstimmende Willenserklärungen erforderlich. Das bedeutet jedoch nicht automatisch, dass auch beide Seiten zu einer Leistung verpflichtet werden. Deshalb muss zwischen zweiseitigen Rechtsgeschäften mit einseitig und mit zweiseitig verpflichtender Wirkung unterschieden werden."
+  },
+  {
+    "question": "Wie ist ein Bürgschaftsvertrag hinsichtlich der Anzahl der Willenserklärungen und seiner Verpflichtungswirkung einzuordnen?",
+    "options": {
+      "A": "Einseitiges, nicht empfangsbedürftiges Rechtsgeschäft.",
+      "B": "Einseitiges, empfangsbedürftiges Rechtsgeschäft.",
+      "C": "Zweiseitiges Rechtsgeschäft mit einseitig verpflichtender Wirkung.",
+      "D": "Zweiseitiges Rechtsgeschäft mit zweiseitig verpflichtender Wirkung."
+    },
+    "correct": "C",
+    "explanation": "Der Bürgschaftsvertrag ist ein zweiseitiges Rechtsgeschäft, weil für den Vertrag übereinstimmende Willenserklärungen des Bürgen und des Gläubigers erforderlich sind. Er ist einseitig verpflichtend, weil sich aus dem Bürgschaftsvertrag grundsätzlich der Bürge verpflichtet, für die Verbindlichkeit des Hauptschuldners einzustehen."
+  },
+  {
+    "question": "Eine Person übernimmt gegenüber einer Bank eine Bürgschaft für den Kredit ihrer Tochter. Warum handelt es sich um einen einseitig verpflichtenden Vertrag?",
+    "options": {
+      "A": "Weil nur eine Person eine Willenserklärung abgibt.",
+      "B": "Weil grundsätzlich nur der Bürge aus dem Bürgschaftsvertrag zur Leistung verpflichtet wird.",
+      "C": "Weil die Bank den Vertrag nicht annehmen muss.",
+      "D": "Weil Bürgschaften keine Verträge sind."
+    },
+    "correct": "B",
+    "explanation": "Für den Bürgschaftsvertrag sind zwar zwei übereinstimmende Willenserklärungen erforderlich. Die Bezeichnung „einseitig verpflichtend“ bezieht sich jedoch nicht auf die Anzahl der Willenserklärungen, sondern auf die vertraglichen Leistungspflichten. Aus dem Bürgschaftsvertrag wird grundsätzlich der Bürge verpflichtet."
+  },
+  {
+    "question": "Ein Mann schenkt seiner Frau zum Hochzeitstag eine goldene Uhr und sie nimmt das Geschenk an. Wie ist die Schenkung einzuordnen?",
+    "options": {
+      "A": "Einseitiges, nicht empfangsbedürftiges Rechtsgeschäft.",
+      "B": "Einseitiges, empfangsbedürftiges Rechtsgeschäft.",
+      "C": "Zweiseitiges Rechtsgeschäft mit einseitig verpflichtender Wirkung.",
+      "D": "Zweiseitiges Rechtsgeschäft mit zweiseitig verpflichtender Wirkung."
+    },
+    "correct": "C",
+    "explanation": "Eine Schenkung ist ein Vertrag und setzt deshalb eine Einigung zwischen Schenker und Beschenktem voraus. Damit handelt es sich um ein zweiseitiges Rechtsgeschäft. Die Schenkung ist jedoch einseitig verpflichtend, weil der Beschenkte keine Gegenleistung für die Zuwendung schuldet."
+  },
+  {
+    "question": "Welche Aussage beschreibt den Unterschied zwischen einem zweiseitigen Rechtsgeschäft und einem zweiseitig verpflichtenden Rechtsgeschäft korrekt?",
+    "options": {
+      "A": "Es gibt keinen Unterschied; beide Begriffe bedeuten dasselbe.",
+      "B": "Zweiseitig beschreibt die erforderlichen Willenserklärungen; zweiseitig verpflichtend bedeutet zusätzlich, dass beide Seiten vertragliche Leistungspflichten übernehmen.",
+      "C": "Zweiseitig bedeutet schriftlich, zweiseitig verpflichtend bedeutet mündlich.",
+      "D": "Zweiseitige Rechtsgeschäfte betreffen Privatpersonen, zweiseitig verpflichtende Rechtsgeschäfte Unternehmen."
+    },
+    "correct": "B",
+    "explanation": "Die Begriffe betrachten unterschiedliche Aspekte. Ein zweiseitiges Rechtsgeschäft kommt durch übereinstimmende Willenserklärungen mindestens zweier Beteiligter zustande. Ob es einseitig oder zweiseitig verpflichtend ist, hängt davon ab, ob nur eine oder beide Vertragsseiten eine vertragliche Leistung schulden. Eine Schenkung ist beispielsweise zweiseitig, aber einseitig verpflichtend."
+  },
+  {
+    "question": "Welcher der folgenden Verträge ist ein typisches Beispiel für ein zweiseitiges Rechtsgeschäft mit zweiseitig verpflichtender Wirkung?",
+    "options": {
+      "A": "Schenkungsvertrag.",
+      "B": "Bürgschaftsvertrag.",
+      "C": "Kaufvertrag.",
+      "D": "Testament."
+    },
+    "correct": "C",
+    "explanation": "Der Kaufvertrag ist ein zweiseitig verpflichtender Vertrag. Der Verkäufer ist insbesondere zur Übergabe und Eigentumsverschaffung der Kaufsache verpflichtet, während der Käufer insbesondere den vereinbarten Kaufpreis zahlen und die Kaufsache abnehmen muss. Beide Vertragsparteien übernehmen damit Pflichten. Testament, Schenkung und Bürgschaft gehören dagegen nicht in diese Kategorie."
+  },
+  {
+    "question": "Die Eltern haben ihrem 17-jährigen Kind erlaubt, ein Ausbildungsverhältnis einzugehen. Während der Probezeit kündigt der Jugendliche das gestattete Ausbildungsverhältnis selbst. Welche Aussage trifft grundsätzlich zu, wenn die Ermächtigung der Eltern nicht eingeschränkt wurde?",
+    "options": {
+      "A": "Die Kündigung ist immer unwirksam, weil Minderjährige keine einseitigen Rechtsgeschäfte vornehmen dürfen.",
+      "B": "Der Minderjährige ist für die Aufhebung des gestatteten Dienst- oder Arbeitsverhältnisses grundsätzlich unbeschränkt geschäftsfähig.",
+      "C": "Die Kündigung ist immer schwebend unwirksam, bis die Eltern sie nachträglich genehmigen.",
+      "D": "Der Minderjährige ist geschäftsunfähig, solange er das 18. Lebensjahr noch nicht vollendet hat."
+    },
+    "correct": "B",
+    "explanation": "Ein 17-Jähriger ist grundsätzlich beschränkt geschäftsfähig (§ 106 BGB). Eine wichtige Sonderregel enthält jedoch § 113 BGB: Ermächtigt der gesetzliche Vertreter den Minderjährigen, in Dienst oder Arbeit zu treten, ist der Minderjährige für Rechtsgeschäfte unbeschränkt geschäftsfähig, die die Eingehung oder Aufhebung eines Dienst- oder Arbeitsverhältnisses der gestatteten Art oder die Erfüllung der daraus entstehenden Verpflichtungen betreffen. Die Ermächtigung kann allerdings eingeschränkt oder zurückgenommen werden. Wichtig zur Abgrenzung: Ein einseitiges Rechtsgeschäft eines beschränkt Geschäftsfähigen ohne erforderliche Einwilligung ist nach § 111 BGB grundsätzlich unwirksam und nicht lediglich schwebend unwirksam."
+  },
+  {
+    "question": "Ein sechsjähriges Kind kauft von seinem Taschengeld ein Buch für 10 Euro. Wie ist der Kauf rechtlich zu beurteilen?",
+    "options": {
+      "A": "Der Vertrag ist wegen des Taschengeldparagraphen sofort wirksam.",
+      "B": "Der Vertrag ist schwebend unwirksam und kann vom Kind mit sieben Jahren selbst genehmigt werden.",
+      "C": "Die Willenserklärung des Kindes ist nichtig, weil das Kind geschäftsunfähig ist.",
+      "D": "Der Vertrag ist wirksam, weil der Kaufpreis nur 10 Euro beträgt."
+    },
+    "correct": "C",
+    "explanation": "Nach § 104 Nr. 1 BGB ist geschäftsunfähig, wer das siebente Lebensjahr noch nicht vollendet hat. Die Willenserklärung eines Geschäftsunfähigen ist nach § 105 Abs. 1 BGB nichtig. Der Wert des gekauften Gegenstands ändert daran nichts. Auch der sogenannte Taschengeldparagraph (§ 110 BGB) hilft hier nicht, denn er betrifft beschränkt geschäftsfähige Minderjährige und damit grundsätzlich Minderjährige ab Vollendung des siebenten Lebensjahres."
+  },
+  {
+    "question": "Ein sechsjähriges Kind kauft sich von seinem Taschengeld für 1,50 Euro eine Tüte Bonbons. Welche Aussage ist richtig?",
+    "options": {
+      "A": "Die Willenserklärung des Kindes ist nichtig, weil ein sechsjähriges Kind geschäftsunfähig ist.",
+      "B": "Der Vertrag ist wirksam, weil Geschäfte unter zwei Euro immer erlaubt sind.",
+      "C": "Der Vertrag ist schwebend unwirksam, weil das Kind beschränkt geschäftsfähig ist.",
+      "D": "Der Vertrag ist aufgrund des Taschengeldparagraphen wirksam."
+    },
+    "correct": "A",
+    "explanation": "Auch bei einem sehr kleinen Kaufpreis gilt § 104 Nr. 1 BGB: Ein Kind unter sieben Jahren ist geschäftsunfähig. Nach § 105 Abs. 1 BGB ist seine Willenserklärung nichtig. Es gibt keine allgemeine gesetzliche Bagatellgrenze von beispielsweise 1,50 Euro oder 2 Euro. § 110 BGB, der sogenannte Taschengeldparagraph, setzt voraus, dass der Minderjährige bereits beschränkt geschäftsfähig ist. Ein sechsjähriges Kind ist das noch nicht."
+  },
+  {
+    "question": "Wie ist eine Kommanditgesellschaft (KG) rechtlich einzuordnen?",
+    "options": {
+      "A": "Als natürliche Person.",
+      "B": "Als juristische Person des öffentlichen Rechts.",
+      "C": "Als juristische Person des privaten Rechts.",
+      "D": "Als rechtsfähige Personengesellschaft, die weder natürliche noch juristische Person ist."
+    },
+    "correct": "D",
+    "explanation": "Die KG ist eine Personengesellschaft und keine juristische Person. Sie ist jedoch rechtsfähig und kann deshalb selbst Rechte erwerben und Verbindlichkeiten eingehen. Nach § 161 Abs. 2 HGB gelten für die KG grundsätzlich die Vorschriften über die OHG entsprechend. Die OHG kann nach § 105 Abs. 2 HGB Rechte erwerben und Verbindlichkeiten eingehen. Merksatz: KG und OHG sind rechtsfähige Personengesellschaften, aber keine juristischen Personen."
+  },
+  {
+    "question": "Wie ist eine Aktiengesellschaft (AG) rechtlich einzuordnen?",
+    "options": {
+      "A": "Als juristische Person des privaten Rechts.",
+      "B": "Als natürliche Person.",
+      "C": "Als juristische Person des öffentlichen Rechts.",
+      "D": "Als Personengesellschaft ohne eigene Rechtspersönlichkeit."
+    },
+    "correct": "A",
+    "explanation": "Die Aktiengesellschaft ist eine juristische Person des privaten Rechts. § 1 Abs. 1 AktG bezeichnet die AG ausdrücklich als Gesellschaft mit eigener Rechtspersönlichkeit. Sie ist eine Kapitalgesellschaft und selbst Trägerin von Rechten und Pflichten. Merksatz: AG und GmbH gehören zu den juristischen Personen des privaten Rechts."
+  },
+  {
+    "question": "Welche Aussage beschreibt die rechtliche Stellung eines Hundes zutreffend?",
+    "options": {
+      "A": "Ein Hund ist eine natürliche Person und deshalb rechtsfähig.",
+      "B": "Ein Hund ist beschränkt geschäftsfähig.",
+      "C": "Ein Hund ist geschäftsunfähig im Sinne des § 104 BGB.",
+      "D": "Ein Hund ist keine Person und besitzt daher keine Rechtsfähigkeit wie eine natürliche oder juristische Person."
+    },
+    "correct": "D",
+    "explanation": "Rechtsfähigkeit bezeichnet die Fähigkeit, Träger von Rechten und Pflichten zu sein. Ein Hund ist keine natürliche oder juristische Person und besitzt daher keine Rechtsfähigkeit wie eine Person. Tiere sind nach § 90a BGB ausdrücklich keine Sachen; soweit nichts anderes bestimmt ist, werden auf sie jedoch die für Sachen geltenden Vorschriften entsprechend angewendet. Die Kategorien geschäftsunfähig, beschränkt geschäftsfähig und voll geschäftsfähig dienen der Beurteilung der Geschäftsfähigkeit von Personen und sind deshalb nicht die passende Einordnung eines Hundes."
+  },
+  {
+    "question": "Eine offene Handelsgesellschaft (OHG) schließt einen Vertrag ab. Welche Eigenschaft ermöglicht es der OHG, selbst Rechte zu erwerben und Verbindlichkeiten einzugehen?",
+    "options": {
+      "A": "Die OHG ist rechtsfähig.",
+      "B": "Die OHG ist eine natürliche Person.",
+      "C": "Die OHG ist beschränkt geschäftsfähig.",
+      "D": "Die OHG ist eine juristische Person des öffentlichen Rechts."
+    },
+    "correct": "A",
+    "explanation": "Die OHG ist eine rechtsfähige Personengesellschaft. Nach § 105 Abs. 2 HGB kann sie selbst Rechte erwerben und Verbindlichkeiten eingehen. Deshalb kann beispielsweise die OHG selbst Vertragspartnerin sein. Sie ist dabei keine natürliche Person und auch keine juristische Person. Für die Klausur ist die Unterscheidung wichtig: Rechtsfähigkeit bedeutet, Träger von Rechten und Pflichten sein zu können; Geschäftsfähigkeit betrifft dagegen die Fähigkeit einer natürlichen Person, selbst wirksam Rechtsgeschäfte vorzunehmen."
+  },
+  {
+    "question": "Eine volljährige Person steht unter rechtlicher Betreuung und kauft beim Bäcker ein Brötchen. Weitere Einschränkungen sind nicht angegeben. Welche Aussage ist richtig?",
+    "options": {
+      "A": "Die Betreuung allein macht die Person nicht geschäftsunfähig; sie kann ein gewöhnliches Alltagsgeschäft wie den Brötchenkauf grundsätzlich selbst wirksam vornehmen.",
+      "B": "Jede betreute Person ist automatisch geschäftsunfähig.",
+      "C": "Die Person ist aufgrund der Betreuung automatisch beschränkt geschäftsfähig wie ein Minderjähriger.",
+      "D": "Jeder Kauf einer betreuten Person ist schwebend unwirksam, bis der Betreuer zustimmt."
+    },
+    "correct": "A",
+    "explanation": "Die Bestellung eines Betreuers führt nicht automatisch zur Geschäftsunfähigkeit oder beschränkten Geschäftsfähigkeit. Ob eine Person geschäftsunfähig ist, richtet sich insbesondere nach § 104 BGB und nicht allein danach, ob eine Betreuung besteht. Zusätzlich kann das Betreuungsgericht für bestimmte Aufgabenbereiche einen Einwilligungsvorbehalt nach § 1825 BGB anordnen. Selbst bei einem solchen Einwilligungsvorbehalt sind geringfügige Angelegenheiten des täglichen Lebens grundsätzlich von der Einwilligungspflicht ausgenommen, soweit das Gericht nichts anderes anordnet. Ein gewöhnlicher Brötchenkauf ist ein typisches Beispiel für ein geringfügiges Alltagsgeschäft."
+  }
+]
